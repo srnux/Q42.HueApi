@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q42.HueApi.RemoteApi.Sample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q42.HueApi.UniversalWindows.Sample", "Q42.HueApi.UniversalWindows.Sample\Q42.HueApi.UniversalWindows.Sample.csproj", "{61EF8922-31CF-4C00-ABA9-ABEE8E8DF06B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueConsole", "HueConsole\HueConsole.csproj", "{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,22 @@ Global
 		{61EF8922-31CF-4C00-ABA9-ABEE8E8DF06B}.Release|x86.ActiveCfg = Release|x86
 		{61EF8922-31CF-4C00-ABA9-ABEE8E8DF06B}.Release|x86.Build.0 = Release|x86
 		{61EF8922-31CF-4C00-ABA9-ABEE8E8DF06B}.Release|x86.Deploy.0 = Release|x86
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|ARM.Build.0 = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|ARM.Build.0 = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|x64.Build.0 = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3D4E2EF-D95F-40C4-B4F5-CDD974A13180}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
