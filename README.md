@@ -46,7 +46,7 @@ LightCommands also support Effects and Alerts
 	command.Alert = Alerts.Once;
 	
 	//Or start a colorloop
-	command.Effect = Effects.ColorLoop;
+	command.Effect=Effect.ColorLoop;
 	
 Once you have composed your command, send it to one or more lights
 
